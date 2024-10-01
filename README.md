@@ -4,26 +4,24 @@
 <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
-CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
+CSS is essential for styling web pages. This Skill Tree presents a systematic approach to learning CSS. Perfect for web development beginners, it offers a clear roadmap to understand selectors, layout, and responsive design. Hands-on, non-video courses and coding exercises in an interactive CSS playground ensure you develop practical skills in creating visually appealing and responsive websites.
 
-|   Index | Name                                                                        | Level   | Repo                                                            | Course Link                                                 |
-|---------|-----------------------------------------------------------------------------|---------|-----------------------------------------------------------------|-------------------------------------------------------------|
-|       1 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)    | [🚀 Start](https://labex.io/courses/quick-start-with-css)    |
-|       2 | [CSS Practice Labs](https://labex.io/courses/css-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/css-practice-labs)       | [🚀 Start](https://labex.io/courses/css-practice-labs)       |
-|       3 | [CSS Practice Challenges](https://labex.io/courses/css-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/css-practice-challenges) | [🚀 Start](https://labex.io/courses/css-practice-challenges) |
+|   Index | Name                                                                  | Level   | Repo                                                         | Course Link                                              |
+|---------|-----------------------------------------------------------------------|---------|--------------------------------------------------------------|----------------------------------------------------------|
+|       1 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Start](https://labex.io/courses/quick-start-with-css) |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
