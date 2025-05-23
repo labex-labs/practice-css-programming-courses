@@ -12,7 +12,7 @@ CSS はウェブページのスタイリングに不可欠です。このスキ�
 
 |   インデックス | 名前                                                                       | 難易度   | Repo                                                          | 練習                                                              |
 |----------------|----------------------------------------------------------------------------|----------|---------------------------------------------------------------|-------------------------------------------------------------------|
-|              1 | [CSS のクイックスタート](https://labex.io/ja/courses/quick-start-with-css) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-css) |
+|              1 | [CSS のクイックスタート](https://labex.io/ja/courses/quick-start-with-css) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-css) |
 
 ## その他
 
