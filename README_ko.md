@@ -12,7 +12,7 @@ CSS 는 웹 페이지 스타일링에 필수적입니다. 이 스킬 트리는 C
 
 |   인덱스 | 이름                                                              | 난이도   | Repo                                                          | 연습                                                             |
 |----------|-------------------------------------------------------------------|----------|---------------------------------------------------------------|------------------------------------------------------------------|
-|        1 | [CSS 퀵 스타트](https://labex.io/ko/courses/quick-start-with-css) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-css) |
+|        1 | [CSS 퀵 스타트](https://labex.io/ko/courses/quick-start-with-css) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-css) |
 
 ## 더 보기
 
