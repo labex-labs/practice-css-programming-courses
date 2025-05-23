@@ -12,7 +12,7 @@ CSS is crucial for styling web pages. This Skill Tree offers a systematic way to
 
 |   Index | Name                                                                  | Difficulty   | Repo                                                          | Practice                                                      |
 |---------|-----------------------------------------------------------------------|--------------|---------------------------------------------------------------|---------------------------------------------------------------|
-|       1 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-css) |
+|       1 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-css) |
 
 ## More
 
