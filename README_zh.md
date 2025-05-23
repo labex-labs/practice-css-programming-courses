@@ -12,7 +12,7 @@ CSS 对于网页样式设计至关重要。本技能树提供了系统学习 CSS
 
 |   序号 | 名称                                                             | 难度   | Repo                                                          | 练习                                                            |
 |--------|------------------------------------------------------------------|--------|---------------------------------------------------------------|-----------------------------------------------------------------|
-|      1 | [CSS 快速入门](https://labex.io/zh/courses/quick-start-with-css) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-css) |
+|      1 | [CSS 快速入门](https://labex.io/zh/courses/quick-start-with-css) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-css) |
 
 ## 更多
 
