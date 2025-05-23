@@ -12,7 +12,7 @@ CSS est essentiel pour le style des pages web. Cet arbre de compétences offre u
 
 |   Index | Nom                                                                           | Difficulté   | Repo                                                          | Pratique                                                                |
 |---------|-------------------------------------------------------------------------------|--------------|---------------------------------------------------------------|-------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec CSS](https://labex.io/fr/courses/quick-start-with-css) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-css) |
+|       1 | [Démarrage rapide avec CSS](https://labex.io/fr/courses/quick-start-with-css) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-css) |
 
 ## Plus
 
