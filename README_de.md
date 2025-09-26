@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
-CSS ist entscheidend für das Styling von Webseiten. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von CSS. Ideal für Anfänger in der Webentwicklung, bietet er einen klaren Fahrplan, um Selektoren, Layout und responsives Design zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven CSS-Spielplatz helfen Ihnen, praktische Fähigkeiten zu entwickeln, um ansprechende und responsive Webseiten zu erstellen.
+Lernen Sie CSS mit diesem strukturierten Lernpfad, ideal für Webentwicklungsanfänger. Diese CSS-Kurse bieten eine klare Roadmap, um Selektoren, Layout und responsives Design zu meistern. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einem interaktiven CSS-Spielplatz, um visuell ansprechende und responsive Websites zu erstellen.
 
-|   Index | Name                                                                     | Schwierigkeit   | Repo                                                          | Übung                                                                |
-|---------|--------------------------------------------------------------------------|-----------------|---------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [Schnellstart mit CSS](https://labex.io/de/courses/quick-start-with-css) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-css) |
+|   Index | Name                                                              | Schwierigkeit   | Repo                                                       | Übung                                                             |
+|---------|-------------------------------------------------------------------|-----------------|------------------------------------------------------------|-------------------------------------------------------------------|
+|       1 | [CSS für Anfänger](https://labex.io/de/courses/css-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/css-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/css-for-beginners) |
 
 ## Mehr
 
